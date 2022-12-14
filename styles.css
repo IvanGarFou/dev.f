@@ -1,3 +1,13 @@
 *{
     background-color: bisque;
 }
+
+img{
+    width: 250px;
+    border-radius: 20px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,30%);
+}
